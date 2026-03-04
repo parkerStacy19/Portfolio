@@ -9,7 +9,7 @@ This repository contains selected project from my academics that demonstrate my 
 If you'd like to connect or learn more about any project, feel free to reach out.
 
 - Email: parkercstacy@gmail.com 
-- LinkedIn: (optional)
+- LinkedIn: www.linkedin.com/in/parker-stacy-3867423b3
 
 ---
 
