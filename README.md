@@ -1,6 +1,6 @@
 # Parker Stacy - Portfolio
 
-This repository contains selected project from my academics that demonstrate my knowledge of computer science fundamentals, problem-solving skills, and coding style.
+This repository contains selected projects from my academics that demonstrate my knowledge of computer science fundamentals, problem-solving skills, and coding style.
 
 Each project has its own folder containing:
 
