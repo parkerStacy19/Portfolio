@@ -1,8 +1,0 @@
-This program implements a text-based, dungeon crawler game that utilizes object oriented design within the python language.
-The program utilizes classes such as ‘Player’, ‘Enemy’, and ‘Item’ to manage game mechanics through a class-based structure. 
-The game has a total of 10 levels, with players starting on level 1. On each level a randomized number of enemies of varying 
-strength attack the player in an attempt to run out the player’s health. Players can perform actions like attacking and healing 
-to defeat the enemies, which in turn grants the player currency depending on the difficulty of the enemies and their strength. 
-Between levels, the player has the opportunity to utilize the store to purchase weapons, armor, and healing potions to face 
-increasingly more difficult levels. This program is meant to demonstrate how object oriented programming can be used for a 
-variety of different tasks within a program, and gives observers a fun, visual way to experience these multiple working parts.
