@@ -10,8 +10,8 @@ Each project has its own folder containing:
 
 _Thank you for taking the time to review my work!_
 
-
 Note: final projects from final semester have yet to be added
+
 ---
 
 ## Projects
